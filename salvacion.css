@@ -1,28 +1,24 @@
+body{
+    width: auto;
+    margin: 0 auto;
+}
 header{
-	background:#ddddee;
-	height: 40%;
+    height: 7em;
 }
-.tresd{
-	font-size: 160%;
-	text-transform:uppercase;
-	text-align: center;
-	position: relative;
-	top: 45%;
-	text-shadow: 0px -0.09em 0.01em  #ffffff,
-	 0px -0.10em 0.01em #fff1ff ;
+.tituloprincipal{
+    position:relative;
+    top:50%;
+    left: 45%;
+    width: 10%;
+     font-family: 'Sevillana', cursive;
+     font-size:2em;
+     text-align:center;
+     border:0.10em solid #000000;
+     border-radius:0.95em;
+     padding: 0.30em;
+    
 }
-main{
-	background: #eeeeee;
-}
-.lista1{
-	
-	list-style-image:url("imagenes/lista.png");
-	padding: 25px;
-	margin-left: 100px;
-	
+.vidapre{
+width: 15%;
 
-}
-.lista{
-color:greenyellow;
-	
 }
